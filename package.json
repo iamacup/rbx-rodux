@@ -1,26 +1,55 @@
 {
-	"name": "@rbxts/rodux",
-	"version": "1.0.0",
-	"description": "TypeScript support for Rodux (Experimental)",
-	"main": "./rodux/lib/init.lua",
-	"typings": "index.d.ts",
-	"scripts": {},
-	"contributors": [
-		{
-			"name": "Jonathan Holmes",
-			"url": "https://github.com/Vorlias"
-		}
-	],
-	"keywords": [
-		"roblox",
-		"typescript",
-		"rodux"
-	],
-	"author": "",
-	"licenses": [
-		{
-			"type": "Apache 2.0",
-			"url": "https://github.com/Roblox/rodux/blob/master/LICENSE"
-		}
-	]
+  "_args": [
+    [
+      "@rbxts/rodux@1.1.0",
+      "/Users/iamacup/Desktop/me-stuff/source/roblox-1"
+    ]
+  ],
+  "_from": "@rbxts/rodux@1.1.0",
+  "_id": "@rbxts/rodux@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-3paAyk4EJrcNZVVtQpUOCWcU1LHbsC2oYqCM0YoHdjFGPfnY0E6oNGe/OcQisueD1mlL6yCPrJMPsGODbI0C7w==",
+  "_location": "/@rbxts/rodux",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@rbxts/rodux@1.1.0",
+    "name": "@rbxts/rodux",
+    "escapedName": "@rbxts%2frodux",
+    "scope": "@rbxts",
+    "rawSpec": "1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "1.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@rbxts/rodux/-/rodux-1.1.0.tgz",
+  "_spec": "1.1.0",
+  "_where": "/Users/iamacup/Desktop/me-stuff/source/roblox-1",
+  "author": "",
+  "contributors": [
+    {
+      "name": "Jonathan Holmes",
+      "url": "https://github.com/Vorlias"
+    }
+  ],
+  "description": "TypeScript support for Rodux (Experimental)",
+  "keywords": [
+    "roblox",
+    "typescript",
+    "rodux"
+  ],
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "https://github.com/Roblox/rodux/blob/master/LICENSE"
+    }
+  ],
+  "main": "./rodux/lib/init.lua",
+  "name": "@rbxts/rodux",
+  "scripts": {},
+  "typings": "index.d.ts",
+  "version": "1.1.0"
 }
